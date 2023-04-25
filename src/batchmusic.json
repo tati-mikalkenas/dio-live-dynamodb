@@ -3,30 +3,60 @@
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Wasting Love"},
-                  "AlbumTitle": {"S": "Fear of the Dark Live"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Henrique e Juliano"},
+                  "SongTitle": {"S": "Meu Amor"},
+                  "AlbumTitle": {"S": "O Céu Explica Tudo"},
+                  "SongYear": {"S": "2017"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Weekend Warrior"},
-                  "AlbumTitle": {"S": "Fear of the Dark"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Grupo Revelação"},
+                  "SongTitle": {"S": "Só Depois"},
+                  "AlbumTitle": {"S": "Aventureiro"},
+                  "SongYear": {"S": "2008"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Fear of the Dark"},
-                  "AlbumTitle": {"S": "Fear of the Dark Tour"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Marília Mendonça"},
+                  "SongTitle": {"S": "Leão"},
+                  "AlbumTitle": {"S": "Decretos Reais"},
+                  "SongYear": {"S": "2020"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "The Weekend"},
+                  "SongTitle": {"S": "Die for Ypu"},
+                  "AlbumTitle": {"S": "Starboy"},
+                  "SongYear": {"S": "2016"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Meduza"},
+                  "SongTitle": {"S": "Paradise"},
+                  "AlbumTitle": {"S": "Introducing MEDUZA"},
+                  "SongYear": {"S": "2021"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Sorriso Maroto"},
+                  "SongTitle": {"S": "Fica Combinado Assim"},
+                  "AlbumTitle": {"S": "É diferente: Ao Vivo"},
+                  "SongYear": {"S": "2007"}
                 }
             }
         }
